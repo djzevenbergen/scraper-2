@@ -1,4 +1,6 @@
-appliances.txt
+
 appliances-Kismile-Removable-Standing-Adjustable-Temperature
-products.csv
+
+*.txt
+*.csv
 
