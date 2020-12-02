@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
                 # key = line[0]
 
-                linkDict[key[1] + '_'+line[2]] = val
+                linkDict[key[1] + '_'+line[2] + '_' + line[3]] = val
             count += 1
 
     print(linkDict)
