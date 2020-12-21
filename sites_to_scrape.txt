@@ -1,10 +1,10 @@
-+,Appliances,https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_nav_0
-+,Apps&Games,https://www.amazon.com/Best-Sellers-Appstore-Android/zgbs/mobile-apps/ref=zg_bs_nav_0
-+,ArtsCrafts&Sewing,https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing/zgbs/arts-crafts/ref=zg_bs_nav_0
-+,Automotive,https://www.amazon.com/Best-Sellers-Automotive/zgbs/automotive/ref=zg_bs_nav_0
-+,Baby,https://www.amazon.com/Best-Sellers-Baby/zgbs/baby-products/ref=zg_bs_nav_0
-+,Beauty&PersonalCare,https://www.amazon.com/Best-Sellers-Beauty/zgbs/beauty/ref=zg_bs_nav_0
-+,Books,https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_0
+,Appliances,https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_nav_0
+,Apps&Games,https://www.amazon.com/Best-Sellers-Appstore-Android/zgbs/mobile-apps/ref=zg_bs_nav_0
+,ArtsCrafts&Sewing,https://www.amazon.com/Best-Sellers-Arts-Crafts-Sewing/zgbs/arts-crafts/ref=zg_bs_nav_0
+,Automotive,https://www.amazon.com/Best-Sellers-Automotive/zgbs/automotive/ref=zg_bs_nav_0
+,Baby,https://www.amazon.com/Best-Sellers-Baby/zgbs/baby-products/ref=zg_bs_nav_0
+,Beauty&PersonalCare,https://www.amazon.com/Best-Sellers-Beauty/zgbs/beauty/ref=zg_bs_nav_0
+,Books,https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_nav_0
 CDs&Vinyl,https://www.amazon.com/best-sellers-music-albums/zgbs/music/ref=zg_bs_nav_0
 Camera&Photo,https://www.amazon.com/best-sellers-camera-photo/zgbs/photo/ref=zg_bs_nav_0
 CellPhones,https://www.amazon.com/Best-Sellers/zgbs/wireless/ref=zg_bs_nav_0

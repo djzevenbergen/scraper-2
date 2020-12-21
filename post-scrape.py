@@ -58,12 +58,13 @@ def get_data(pageNo, q, lin):
     resp = json.dumps(response)
 
     # for d in soup.findAll('ol.li'):
-    print(soup)
+    # print(soup)
     # with open("soupt.txt", "w") as file:
     #     file.write(str(soup))
     # for item in soup.select("li"):
     #     print(item.get_text())
     counter = 0
+
     for d in soup.find_all('li'):
 
         print(d.get_text())
@@ -71,7 +72,6 @@ def get_data(pageNo, q, lin):
         # for d in soup.findAll('div', attrs={'class': 'sg-col-4-of-12 sg-col-8-of-16 sg-col-16-of-24 sg-col-12-of-20 sg-col-24-of-32 sg-col sg-col-28-of-36 sg-col-20-of-28'}):
         print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
         link = d.find('img')
-
         all = []
         if counter == 0:
             all.append('product-title' + lin[0])
@@ -83,6 +83,20 @@ def get_data(pageNo, q, lin):
 
         counter += 1
         q.put(all)
+    # for d in soup.find_all('div'):
+    #     print('$$$$hey')
+    #     if d.has_attr('class'):
+    #         print(d['class'])
+
+        # text = d.find('p').getText()
+        # all = []
+        # all.append(d)
+        # if text is not None:
+
+        #     all.append("product-description" + text)
+        # else:
+        #     all.append("unknown-product")
+        # q.put(all)
 
 
     # print("---------------------------------------------------------------")
